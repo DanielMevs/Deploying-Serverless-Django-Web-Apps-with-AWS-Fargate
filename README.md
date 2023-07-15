@@ -3,5 +3,18 @@
 Check out the course [here](https://www.udemy.com/course/deploy-a-serverless-django-web-app-with-aws-fargate-2022/)
 
 ### Topics Covered:
-* Deploying a serverless Django web application with docker to AWS Fargate
-* Utilizing AWS services, such as Amazon S3 for hosting static files, Amazon RDS to manage a Postgres-based database, and AWS Route 53 for domain name registration.
+* How to deploy your website using the Amazon ECS - Fargate launch type
+* How to make use of IaaS - (Infrastructure as a Service)
+* How to utilize serverless technology
+* Dockerizing your Django application
+* Registering a domain name and provision an SSL/TLS certificate
+* Hosting a PostgreSQL database with Amazon RDS
+* Deploying your static files on Amazon S3
+* Creating a basic application
+
+
+
+
+
+
+
